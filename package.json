@@ -1,0 +1,12 @@
+{
+  "name": "solutionio-countdown",
+  "description": "A countdown Timer with events",
+  "version": "0.0.1",
+  "keywords": [
+    "countdown"
+  ],
+  "dependencies": {
+    "component-underscore": "git://github.com/npmcomponent/component-underscore.git",
+    "solutionio-backbone": "git://github.com/npmcomponent/solutionio-backbone.git"
+  }
+}
